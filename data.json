@@ -13,30 +13,6 @@
       }
     },
     {
-      "id": 2,
-      "title": "Mens Casual Premium Slim Fit T-Shirts ",
-      "price": 22.3,
-      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-      "rating": {
-        "rate": 4.1,
-        "count": 259
-      }
-    },
-    {
-      "id": 3,
-      "title": "Mens Cotton Jacket",
-      "price": 55.99,
-      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 500
-      }
-    },
-    {
       "id": 4,
       "title": "Mens Casual Slim Fit",
       "price": 15.99,
@@ -46,18 +22,6 @@
       "rating": {
         "rate": 2.1,
         "count": 430
-      }
-    },
-    {
-      "id": 5,
-      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-      "price": 695,
-      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 4.6,
-        "count": 400
       }
     },
     {
@@ -239,7 +203,228 @@
         "rate": 3.6,
         "count": 145
       }
+    },
+    {
+      "title": "",
+      "price": "",
+      "description": "",
+      "category": "",
+      "image": "",
+      "createdAt": 1679563644150,
+      "updatedAt": 1679563644150,
+      "id": 21
+    },
+    {
+      "title": "asdad",
+      "price": "asdad",
+      "description": "asdad",
+      "category": "asdad",
+      "image": "asdad",
+      "createdAt": 1679563870618,
+      "updatedAt": 1679563870618,
+      "id": 22
+    },
+    {
+      "title": "iphone 14",
+      "price": "iphone 14",
+      "description": "iphone 14",
+      "category": "iphone 14",
+      "image": "iphone 14",
+      "createdAt": 1679564081849,
+      "updatedAt": 1679564081849,
+      "id": 23
+    },
+    {
+      "title": "sadasd",
+      "price": "sadasd",
+      "description": "sadasd",
+      "category": "sadasd",
+      "image": "sadasd",
+      "createdAt": 1679629369464,
+      "updatedAt": 1679629369464,
+      "id": 24
     }
   ],
-  "carts": []
+  "todos": [
+    {
+      "value": "22223334444sssthinh",
+      "checked": true,
+      "createdAt": 1680370046475,
+      "updatedAt": 1680370046475,
+      "id": 20
+    },
+    {
+      "value": "11122333",
+      "checked": true,
+      "createdAt": 1680370632266,
+      "updatedAt": 1680370632266,
+      "id": 21
+    },
+    {
+      "value": "asdas",
+      "checked": false,
+      "createdAt": 1680422992724,
+      "updatedAt": 1680422992724,
+      "id": 22
+    },
+    {
+      "value": "thinhlien",
+      "checked": false,
+      "createdAt": 1680423780898,
+      "updatedAt": 1680423780898,
+      "id": 23
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Steak sapi bakar",
+      "price": 25.13,
+      "number": null
+    },
+    {
+      "id": 2,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 15.12,
+      "number": null
+    },
+    {
+      "id": 3,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Ikan santan",
+      "price": 55.12,
+      "number": null
+    },
+    {
+      "id": 4,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Mie kuah pedas",
+      "price": 5.12,
+      "number": null
+    },
+    {
+      "id": 5,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 65.12,
+      "number": null
+    },
+    {
+      "id": 6,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Mie gepeng telor",
+      "price": 21.12
+    },
+    {
+      "id": 7,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Nasi steak ayam",
+      "price": 58.12,
+      "number": null
+    },
+    {
+      "id": 8,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Nasi goreng putih",
+      "price": 22.12
+    },
+    {
+      "id": 9,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Nasi ayam salad",
+      "price": 25.132
+    },
+    {
+      "id": 10,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Mie putih ayam",
+      "price": 20.12
+    },
+    {
+      "id": 11,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Cumi-cumi",
+      "price": 21.12
+    },
+    {
+      "id": 12,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Ikan santan",
+      "price": 125.12
+    },
+    {
+      "id": 13,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Ayam kentang",
+      "price": 62.12
+    },
+    {
+      "id": 14,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 75.12
+    },
+    {
+      "id": 15,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Ikan santan",
+      "price": 257.12
+    },
+    {
+      "id": 16,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 22.12
+    },
+    {
+      "id": 17,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 95.12
+    },
+    {
+      "id": 18,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 295.12
+    },
+    {
+      "id": 19,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 33.12
+    },
+    {
+      "id": 20,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 44.12
+    },
+    {
+      "id": 21,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 63.12
+    },
+    {
+      "id": 22,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 87.12
+    },
+    {
+      "id": 23,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 31.12
+    },
+    {
+      "id": 24,
+      "img": "https://lh3.googleusercontent.com/TLtW8BCAuKTqNVWOakzc_6B8etyVlPQsb6vIHNPJHOPYoYdWjs2qZmIoOmHBEsvjSfkwld8Wa1jlhDgAaBWjoT3455PZu6OYmQ3XMrgE",
+      "title": "Kuah santan",
+      "price": 17.12
+    }
+  ]
 }

@@ -48,3 +48,28 @@ const getProductList = (categoryList, numberOfProduct) => {
     console.log("generater data succes!");
   });
 })();
+
+// function paginatePage() {
+//   let size_page = document.getElementsByClassName("page");
+//   for (let i = 0; i < size_page.length; i++) {
+//     size_page[i].addEventListener("click", myFunction);
+//   }
+//   function myFunction() {
+//     let x = this.innerHTML;
+//     fetchRequest(`${URL}/products`, "get")
+//       .then(function (data) {
+//       showLoading();
+//       let limiteValue = Math.round(data.length / 4);
+
+//       fetchRequest(`${URL}/products?_page=${x}&_limit=${limiteValue}`, "get")
+//         .then(function (data) {
+//           // document.getElementById("sort").addEventListener("change", sortPrice(x));
+//           console.log(data.pagination._page);
+//           renderProduct(data.data);
+//         })
+//         .finally(function () {
+//           hideLoading();
+//         });
+//     });
+//   }
+// }

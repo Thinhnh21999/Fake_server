@@ -15,7 +15,10 @@
     "json-server": "^0.16.3",
     "json-server-auth": "^2.0.2",
     "nodemon": "^2.0.7",
-    "query-string": "^7.0.0"
+    "query-string": "^7.0.0",
+    "redux": "^4.2.1",
+    "redux-saga": "^1.2.3",
+    "saga": "^4.0.0-alpha"
   },
   "devDependencies": {
     "faker": "^5.5.3"
